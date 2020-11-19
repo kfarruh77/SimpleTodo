@@ -20,7 +20,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* 
 
 ## Video Walkthrough
 
@@ -32,11 +32,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Remembering Java syntax and dealing with errors caused by the version difference of the Android Studio
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2020 Farrukh Karimov
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
